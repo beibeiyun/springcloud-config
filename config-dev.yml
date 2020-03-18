@@ -1,4 +1,2 @@
 config:
-  info: "config info for dev(dev)"
-config:
-  info1: "update config info for dev(dev)"
+  info: "config info for dev(master)"
