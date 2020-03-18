@@ -1,6 +1,4 @@
-# 修改前信息
 config:
-  info: config info for dev(dev)
-# 修改后信息
+  info: "config info for dev(dev)"
 config:
-  info7: update config info for dev(dev)
+  info1: "update config info for dev(dev)"
